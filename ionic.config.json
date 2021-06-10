@@ -1,5 +1,7 @@
 {
   "name": "call-recorder",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
